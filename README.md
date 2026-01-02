@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👨‍💻 Coding Profiles
 
-<!--
-**pritamrangari27/pritamrangari27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 LeetCode
+🔗 https://leetcode.com/u/pritamrangari/
 
-Here are some ideas to get you started:
+![LeetCode Stats](https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 LeetCode Practice
+- Arrays
+- Strings
+- Linked List
+- Two Pointers
+- Sorting
