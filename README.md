@@ -60,6 +60,7 @@ I enjoy building real-world projects, solving DSA problems, and working on resea
 ## 🌐 Reach Out to Me
 🌐 Portfolio / Meeting Website  
 🔗 https://pritamrangari.netlify.app  
+🔗 https://pritamrangari.me
 
 💼 LinkedIn  
 🔗 https://www.linkedin.com/in/pritamrangari  
