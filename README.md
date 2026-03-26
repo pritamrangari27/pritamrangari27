@@ -14,9 +14,9 @@
   </a>
 </p>
 <hr>
-## 🚀 Featured Work  
+🚀 Featured Work  
 
-### 🌐 Web  
+🌐 Web  
 🔹 Web Application Development Club <br>
 🔗 https://ioit-wad-club.vercel.app/
 
@@ -29,7 +29,7 @@
 <br>
 <hr>
 
-## 🏆 Research  
+🏆 Research  
 
 📄 Crime Management System (Pune City)  
 https://www.ijarsct.co.in/Paper24963.pdf  
@@ -39,7 +39,7 @@ https://www.ijarsct.co.in/Paper25577.pdf
 
 <br>
 <hr>
-## 🧠 LeetCode  
+🧠 LeetCode  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" />
