@@ -3,8 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritamrangari27&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/pritamrangari27?label=Followers&style=social" />
+  <a href="https://pritamrangari.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/pritamrangari">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/pritamrangari27">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <br>
