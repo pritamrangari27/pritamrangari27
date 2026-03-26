@@ -24,9 +24,7 @@
   <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="170"/>
-</p>
+>
 
 <br>
 
