@@ -17,13 +17,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="170"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="170"/>
 </p>
 
 <br>
