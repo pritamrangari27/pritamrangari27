@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true"
        width="47%" style="border:2px solid #0077B5; border-radius:10px; padding:4px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamrangari27&theme=tokyo-night&hide_border=true" width="65%"/>
+  <img src="https://github.com/pritamrangari27/pritamrangari27/blob/output/github-contribution-grid-snake.svg" width="65%"/>
   <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma"
        width="47%" style="border:2px solid #0077B5; border-radius:10px; padding:4px;"/>
 </p>
