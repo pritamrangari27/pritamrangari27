@@ -19,5 +19,5 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,java,mysql,git,arduino" />
 </p>
 <p align="center">
-  <b>✨ Building impactful systems • Exploring AI • Improving every day</b>
+  <b> Building impactful systems | Exploring AI | Improving every day</b>
 </p>
