@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=2500&color=ffffff&center=true&vCenter=true&width=900&lines=Pritam+Rangari&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=2500&color=0077B5&center=true&vCenter=true&width=900&lines=Pritam+Rangari&font=Fira+Code" />
 </p>
+
 <p align="center">
 💻 Full Stack Developer | AI Enthusiast | DSA Learner
 </p>
+
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117">
