@@ -17,7 +17,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamrangari27&theme=react-dark&hide_border=true&area=true" width="65%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamrangari27&theme=react-dark&hide_border=true&area=true" width="85%"/>
 </p>
 <br>
 <p align="center">
