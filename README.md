@@ -1,7 +1,5 @@
-# 👨‍💻 Pritam Rangari  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;AI%2FML+%7C+Web+Dev+%7C+Embedded+Systems;Building+Real-World+Projects;Consistent+Learner+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Pritam+Rangari;AI%2FML+%7C+Web+Dev+%7C+Embedded+Systems;Building+Real-World+Projects+🚀" />
 </p>
 
 <p align="center">
@@ -14,15 +12,15 @@
 ## 🚀 About Me  
 
 🎓 B.Tech IT Student | Pune, India  
-💡 Passionate about building real-world scalable systems  
+💡 Passionate about building scalable and impactful systems  
 
-✨ I focus on:  
+✨ Focus Areas:  
 • Data Structures & Algorithms  
 • Full Stack Development  
 • AI & Embedded Systems  
-• Research-based Projects  
+• Research & Innovation  
 
-⚡ Goal: Crack top product-based companies  
+⚡ Target: Top Product-Based Companies  
 
 <br>
 
@@ -55,9 +53,9 @@
 
 <br>
 
-## 🚀 Featured Projects  
+## 🚀 Featured Work  
 
-### 🌐 Web Development  
+### 🌐 Web  
 🔹 AISSMS Food Ordering System  
 🔗 https://aissmsfoodsystem.netlify.app/  
 
@@ -69,13 +67,13 @@
 
 <br>
 
-### 🤖 AI & Embedded Systems  
+### 🤖 AI & Embedded  
 🔹 ESP32 Voice Assistant (Gemini AI)  
 🔗 https://github.com/pritamrangari27/ESP32-Based-Voice-Assistant  
 
 🔹 Smart Shopping Basket (RFID)  
 
-🔹 Mood-Based Song Recommendation (ML + Spotify API)  
+🔹 Mood-Based Song Recommendation  
 
 <br>
 
@@ -87,7 +85,7 @@ https://www.ijarsct.co.in/Paper24963.pdf
 📄 ESP32 Voice Assistant with Gemini AI  
 https://www.ijarsct.co.in/Paper25577.pdf  
 
-📁 Repo  
+📁 Repository  
 https://github.com/pritamrangari27/research-papers  
 
 <br>
@@ -108,14 +106,6 @@ https://github.com/pritamrangari27/research-papers
 
 <br>
 
-## 🧭 Vision  
-
 <p align="center">
-Building impactful software using AI, scalable backend systems, and strong problem-solving skills  
-</p>
-
-<br>
-
-<p align="center">
-⭐ Consistency + Projects + DSA = Success
+✨ Building. Learning. Improving. Every Day.
 </p>
