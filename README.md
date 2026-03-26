@@ -17,10 +17,9 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="170"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" width="48%"/>
+</p>>
 
 <br>
 
