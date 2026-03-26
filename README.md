@@ -17,6 +17,12 @@
 <br>
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
