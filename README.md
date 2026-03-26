@@ -14,16 +14,6 @@
   </a>
 </p>
 <hr>
-
-
-## 🧠 LeetCode  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" />
-</p>
-<br>
-<hr>
-
 ## 🚀 Featured Work  
 
 ### 🌐 Web  
@@ -49,5 +39,13 @@ https://www.ijarsct.co.in/Paper25577.pdf
 
 <br>
 <hr>
+## 🧠 LeetCode  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" />
+</p>
+<br>
+<hr>
+
 
 
