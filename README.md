@@ -8,25 +8,18 @@
 </p>
 
 <br>
+## 🚀 About Me  
 
-## 🧰 Tech Stack  
+🎓 B.Tech IT Student | Pune, India  
+💡 Passionate about building scalable and impactful systems  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,mysql,git,arduino,vscode" />
-</p>
+✨ Focus Areas:  
+• Data Structures & Algorithms  
+• Full Stack Development  
+• AI & Embedded Systems  
+• Research & Innovation  
 
-<br>
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamrangari27&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+⚡ Target: Top Product-Based Companies  
 
 <br>
 
