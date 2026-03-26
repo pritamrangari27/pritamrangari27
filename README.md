@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Pritam+Rangari" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Pritam+Rangari;AI%2FML+%7C+Web+Dev+%7C+Embedded+Systems;Building+Real-World+Projects+🚀" />
 </p>
 
 <p align="center">
@@ -12,27 +12,81 @@
 ## 🚀 About Me  
 
 🎓 B.Tech IT Student | Pune, India  
-💡 Focused on building scalable and impactful systems  
+💡 Passionate about building scalable and impactful systems  
 
+✨ Focus Areas:  
 • Data Structures & Algorithms  
 • Full Stack Development  
 • AI & Embedded Systems  
+• Research & Innovation  
 
-⚡ Target: Product-Based Companies  
+⚡ Target: Top Product-Based Companies  
 
 <br>
 
-## 📊 Stats  
+## 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,mysql,git,arduino,vscode" />
+</p>
+
+<br>
+
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamrangari27&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
+<br>
+
+## 🧠 LeetCode  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" />
+</p>
+
+<br>
+
+## 🚀 Featured Work  
+
+### 🌐 Web  
+🔹 AISSMS Food Ordering System  
+🔗 https://aissmsfoodsystem.netlify.app/  
+
+🔹 Online Book Management System  
+🔗 https://onlinebooksystemp.netlify.app/  
+
+🔹 Crime Management System  
+🔗 https://github.com/pritamrangari27/crimeManagementSystem  
+
+<br>
+
+### 🤖 AI & Embedded  
+🔹 ESP32 Voice Assistant (Gemini AI)  
+🔗 https://github.com/pritamrangari27/ESP32-Based-Voice-Assistant  
+
+🔹 Smart Shopping Basket (RFID)  
+
+🔹 Mood-Based Song Recommendation  
+
+<br>
+
+## 🏆 Research  
+
+📄 Crime Management System (Pune City)  
+https://www.ijarsct.co.in/Paper24963.pdf  
+
+📄 ESP32 Voice Assistant with Gemini AI  
+https://www.ijarsct.co.in/Paper25577.pdf  
+
+📁 Repository  
+https://github.com/pritamrangari27/research-papers  
 
 <br>
 
@@ -53,5 +107,5 @@
 <br>
 
 <p align="center">
-✨ Building. Learning. Improving.
+✨ Building. Learning. Improving. Every Day.
 </p>
