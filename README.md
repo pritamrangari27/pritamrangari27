@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Pritam+Rangari;AI%2FML+%7C+Web+Dev+%7C+Embedded+Systems;Building+Real-World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Pritam+Rangari" />
 </p>
 
 <p align="center">
