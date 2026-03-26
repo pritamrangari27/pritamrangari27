@@ -9,21 +9,6 @@
 
 <br>
 
-## 🚀 About Me  
-
-🎓 B.Tech IT Student | Pune, India  
-💡 Passionate about building scalable and impactful systems  
-
-✨ Focus Areas:  
-• Data Structures & Algorithms  
-• Full Stack Development  
-• AI & Embedded Systems  
-• Research & Innovation  
-
-⚡ Target: Top Product-Based Companies  
-
-<br>
-
 ## 🧰 Tech Stack  
 
 <p align="center">
