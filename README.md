@@ -16,9 +16,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamrangari27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" height="170"/>
