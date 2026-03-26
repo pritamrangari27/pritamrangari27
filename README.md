@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=2500&color=8A2BE2&center=true&vCenter=true&width=900&lines=Pritam+Rangari&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=2500&color=0077B5&center=true&vCenter=true&width=900&lines=Pritam+Rangari&font=Fira+Code" />
 </p>
 
 <p align="center">
@@ -17,9 +17,11 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma" width="48%"/>
-</p>>
+  <img src="https://streak-stats.demolab.com?user=pritamrangari27&theme=tokyonight&hide_border=true"
+       width="47%" style="border:2px solid #0077B5; border-radius:10px; padding:4px;"/>
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Karma"
+       width="47%" style="border:2px solid #0077B5; border-radius:10px; padding:4px;"/>
+</p>
 
 <br>
 
