@@ -19,9 +19,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamrangari27&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,java,mysql,git,arduino" />
-</p>
-<p align="center">
    <b> Building impactful systems • Exploring AI • Improving every day</b>
-
 </p>
