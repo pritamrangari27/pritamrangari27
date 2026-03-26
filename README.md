@@ -12,11 +12,9 @@
     <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117">
   </a>
 </p>
-<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamrangari27&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
-<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,java,mysql,git,arduino" />
 </p>
