@@ -29,6 +29,7 @@
 ⚡ Target: Top Product-Based Companies  
 
 <br>
+<hr>
 
 ## 🧠 LeetCode  
 
@@ -38,29 +39,22 @@
 
 <br>
 
+<hr>
+
 ## 🚀 Featured Work  
 
 ### 🌐 Web  
-🔹 AISSMS Food Ordering System  
-🔗 https://aissmsfoodsystem.netlify.app/  
+🔹 Web Application Development Club 
+🔗 https://ioit-wad-club.vercel.app/
 
-🔹 Online Book Management System  
-🔗 https://onlinebooksystemp.netlify.app/  
+🔹 MLSA Club 
+🔗 https://mlsa-ioit.vercel.app/ 
 
 🔹 Crime Management System  
-🔗 https://github.com/pritamrangari27/crimeManagementSystem  
+🔗 https://crime-management-system-new.vercel.app
 
 <br>
-
-### 🤖 AI & Embedded  
-🔹 ESP32 Voice Assistant (Gemini AI)  
-🔗 https://github.com/pritamrangari27/ESP32-Based-Voice-Assistant  
-
-🔹 Smart Shopping Basket (RFID)  
-
-🔹 Mood-Based Song Recommendation  
-
-<br>
+<hr>
 
 ## 🏆 Research  
 
@@ -70,27 +64,7 @@ https://www.ijarsct.co.in/Paper24963.pdf
 📄 ESP32 Voice Assistant with Gemini AI  
 https://www.ijarsct.co.in/Paper25577.pdf  
 
-📁 Repository  
-https://github.com/pritamrangari27/research-papers  
-
 <br>
+<hr>
 
-## 🌐 Connect  
 
-<p align="center">
-  <a href="https://pritamrangari.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/pritamrangari">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/pritamrangari27">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-✨ Building. Learning. Improving. Every Day.
-</p>
