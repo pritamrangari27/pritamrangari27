@@ -10,6 +10,10 @@
 
 ## 🏆 Certifications
 
+<h2 align="center">🏆 Certifications</h2>
+
+<div align="center">
+
 <table>
 <tr>
 
@@ -17,22 +21,24 @@
 
 <img src="assets/oracle-agentic-ai-badge.jpg" width="170">
 
+<br><br>
+
 <b>Oracle Agentic AI Certified<br>Foundations Associate</b>
 
+<br>
 
 <sub>Issued: July 2026</sub>
 
 </td>
 
-<td align="center" width="50%"><br>
+<td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white">
 
-<br>
-<br>
+<br><br>
+
 <b>Ultimate AWS Certified Cloud<br>Practitioner CLF-C02 2026</b>
 
-<br>
 <br>
 
 <sub>Issued: July 2026</sub>
@@ -41,6 +47,8 @@
 
 </tr>
 </table>
+
+</div>
 ---
 
 <p align="center">
