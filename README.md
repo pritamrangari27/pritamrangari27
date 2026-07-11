@@ -63,4 +63,10 @@
 </tr>
 </table>
 
+<br>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,java,mysql,git,arduino" />
+</p>
+
 ---
