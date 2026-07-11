@@ -25,17 +25,13 @@
    <b> Building impactful systems • Exploring AI • Improving every day</b>
 </p>
 
-## 🏆 Certifications
+<h2 align="center">🏆 Certifications</h2>
 
-<div align="center">
+<p align="center">
+  <img src="assets/oracle-agentic-ai-badge.jpg" width="200" alt="Oracle Agentic AI Certified Foundations Associate"/>
+</p>
 
-<a href="YOUR_ORACLE_BADGE_VERIFICATION_LINK">
-  <img src="https://img.shields.io/badge/Oracle-Agentic_AI_Certified_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
-
-**Oracle Agentic AI Certified Foundations Associate**
-
-📅 **Issued:** July 2026  
-🔗 **Credential:** <a href="YOUR_ORACLE_BADGE_VERIFICATION_LINK">Verify Certification</a>
-
-</div>
+<p align="center">
+  <b>Oracle Agentic AI Certified Foundations Associate</b><br>
+  <sub>Issued: July 2026</sub>
+</p>
