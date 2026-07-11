@@ -17,12 +17,11 @@
   <b>Oracle Agentic AI Certified Foundations Associate</b><br>
   <sub>Issued: July 2026</sub>
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <hr>
-<br>
-<br>
-<br>
-<br>
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117">
