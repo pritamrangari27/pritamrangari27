@@ -17,8 +17,6 @@
 
 <img src="assets/oracle-agentic-ai-badge.jpg" width="170">
 
-<br><br>
-
 <b>Oracle Agentic AI Certified<br>Foundations Associate</b>
 
 <br>
