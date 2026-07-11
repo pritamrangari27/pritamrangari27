@@ -40,7 +40,7 @@
 <br>
 <b>Ultimate AWS Certified Cloud<br>Practitioner CLF-C02 2026</b>
 
-
+<br>
 <sub>Issued: July 2026</sub>
 
 </td>
