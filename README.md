@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=2500&color=0077B5&center=true&vCenter=true&width=900&lines=Pritam+Rangari&font=Fira+Code" />
+  <span style="font-size:42px; font-weight:bold; color:white;">
+    Pritam Rangari
+  </span>
 </p>
 
 <p align="center">
