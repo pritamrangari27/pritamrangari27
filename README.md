@@ -3,23 +3,20 @@
 </p>
 
 <p align="center">
-💻 Full Stack Developer | AI & Cyber Security Enthusiast | DSA Learner
+💻 <b>Full Stack Developer</b> | AI & Cyber Security Enthusiast | DSA Learner
 </p>
 
 <br>
 
-<h2 align="left">🏆 Certifications</h2>
+<h2 align="center">🏆 Certifications</h2>
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-
-<td align="center" width="50%" valign="top" style="border:none;">
+<p align="center">
 
 <img src="assets/oracle-agentic-ai-badge.jpg" width="180" alt="Oracle Agentic AI Certified Foundations Associate"/>
 
-<br><br>
+<br>
 
-<b>Oracle Agentic AI Certified<br>Foundations Associate</b>
+<b>Oracle Agentic AI Certified Foundations Associate</b>
 
 <br>
 
@@ -29,15 +26,17 @@
 
 <sub>Issued: July 2026</sub>
 
-</td>
+</p>
 
-<td align="center" width="50%" valign="top" style="border:none;">
+<br>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 
 <br><br>
 
-<b>Ultimate AWS Certified Cloud<br>Practitioner CLF-C02 2026</b>
+<b>Ultimate AWS Certified Cloud Practitioner CLF-C02 2026</b>
 
 <br>
 
@@ -47,10 +46,12 @@
 
 <sub>Completed: July 2026</sub>
 
-</td>
+</p>
 
-</tr>
-</table>
+<br>
+
+---
+
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117">
