@@ -19,7 +19,10 @@
 </p>
 
 <hr>
-
+<br>
+<br>
+<br>
+<br>
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117">
