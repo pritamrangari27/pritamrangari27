@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<h2 align="left">🏆 Oracle Certification</h2>
+<!-- <h2 align="left">🏆 Oracle Certification</h2>
 
 <p align="left">
   <img src="assets/oracle-agentic-ai-badge.jpg" width="220" alt="Oracle Agentic AI Certified Foundations Associate"/>
@@ -17,7 +17,14 @@
 <p align="left">
   <b>Oracle Agentic AI Certified Foundations Associate</b><br>
   <sub>Issued: July 2026</sub>
-</p>
+</p> -->
+
+## 🏆 Certifications
+
+![Oracle](https://img.shields.io/badge/Oracle-Agentic_AI_Certified_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+- **Oracle Agentic AI Certified Foundations Associate** *(July 2026)*
+- 
 <br>
 <br>
 <br>
