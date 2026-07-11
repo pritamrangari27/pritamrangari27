@@ -6,7 +6,7 @@
 
 <p align="center">
   <p align="center">
-  <i>Sometimes, not knowing everything is also fine.</i>
+  <i>"Sometimes, not knowing everything is also fine."</i>
 </p>
 </p>
 <p align="center">
