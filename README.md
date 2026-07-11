@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-  <i>"Log chale jaate hain, yaadey reh jaati hain."</i>
+  <i>"Log chale jaate hain, yaadein reh jaati hain."</i>
 </p>
 </p>
 <p align="center">
