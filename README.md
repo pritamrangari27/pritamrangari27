@@ -6,7 +6,7 @@
 
 <p align="center">
   <p align="center">
-  <i>"Curiosity reveals the truth. Peace comes from not knowing it all."</i>
+  <i>Sometimes, not knowing everything is also fine.</i>
 </p>
 </p>
 <p align="center">
