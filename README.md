@@ -13,7 +13,7 @@
   <img src="assets/oracle-agentic-ai-badge.jpg" width="220" alt="Oracle Agentic AI Certified Foundations Associate"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>Oracle Agentic AI Certified Foundations Associate</b><br>
   <sub>Issued: July 2026</sub>
 </p>
