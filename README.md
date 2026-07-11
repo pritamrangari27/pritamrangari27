@@ -65,10 +65,4 @@
 
 <br>
 
-
-<h2 align="center">💻 LeetCode Stats</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Baloo&ext=contest" />
-</p>
 ---
