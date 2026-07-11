@@ -18,7 +18,7 @@
   <sub>Issued: July 2026</sub>
 </p>
 
-
+<hr>
 
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
