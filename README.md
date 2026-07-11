@@ -15,31 +15,26 @@
 
 <td align="center" width="50%">
 
-<img src="assets/oracle-agentic-ai-badge.jpg" width="180" alt="Oracle Agentic AI Certified Foundations Associate"/>
+<img src="assets/oracle-agentic-ai-badge.jpg" width="180"/>
 
-<br><br>
+**Oracle Agentic AI Certified Foundations Associate**
 
-<b>Oracle Agentic AI Certified Foundations Associate</b>
-
-<sub>Issued: July 2026</sub>
+<sub>July 2026</sub>
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Course-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br><br>
+**Ultimate AWS Certified Cloud Practitioner CLF-C02 2026**
 
-<b>Ultimate AWS Certified Cloud Practitioner CLF-C02 2026</b>
-
-<sub>Udemy • Completed July 2026</sub>
+<sub>July 2026</sub>
 
 </td>
 
 </tr>
 </table>
-
 <br>
 
 <hr>
