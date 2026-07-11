@@ -6,7 +6,7 @@
 
 <p align="center">
   <p align="center">
-  <i>"Log chale jaate hain, yaadein reh jaati hain."</i>
+  <i>"Curiosity reveals the truth. Peace comes from not knowing it all."</i>
 </p>
 </p>
 <p align="center">
@@ -64,9 +64,6 @@
 </table>
 
 <br>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,java,mysql,git,arduino" />
-</p>
+
 
 ---
