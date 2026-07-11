@@ -7,9 +7,9 @@
 </p>
 
 
-<h2 align="center">🏆 Oracle Certification</h2>
+<h2 align="left">🏆 Oracle Certification</h2>
 
-<p align="center">
+<p align="left">
   <img src="assets/oracle-agentic-ai-badge.jpg" width="220" alt="Oracle Agentic AI Certified Foundations Associate"/>
 </p>
 
