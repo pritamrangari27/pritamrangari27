@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size:42px; font-weight:bold; color:white;">
-    Pritam Rangari
+    <h1>Pritam Rangari</h1>
   </span>
 </p>
 
