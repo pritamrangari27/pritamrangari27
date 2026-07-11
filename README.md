@@ -3,25 +3,21 @@
 </p>
 
 <p align="center">
-💻 <b>Full Stack Developer</b> | AI & Cyber Security Enthusiast | DSA Learner
+  💻 <b>Full Stack Developer</b> | AI & Cyber Security Enthusiast | DSA Learner
 </p>
 
 <br>
 
-## 🏆 Certifications
-
 <h2 align="center">🏆 Certifications</h2>
 
-<div align="center">
-
-<table>
+<table align="center" width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
-<img src="assets/oracle-agentic-ai-badge.jpg" width="170">
+<img src="assets/oracle-agentic-ai-badge.jpg" width="170" alt="Oracle Badge">
 
-<br>
+<br><br>
 
 <b>Oracle Agentic AI Certified<br>Foundations Associate</b>
 
@@ -31,14 +27,12 @@
 
 </td>
 
-<td align="center" width="50%">
-<br>
+<td align="center" valign="top" width="50%">
 
+<img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="AWS Course">
 
-<img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white">
+<br><br><br><br>
 
-<br>
-<br>
 <b>Ultimate AWS Certified Cloud<br>Practitioner CLF-C02 2026</b>
 
 <br>
@@ -50,7 +44,6 @@
 </tr>
 </table>
 
-</div>
 ---
 
 <p align="center">
