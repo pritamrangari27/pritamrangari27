@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | AI & Cyber Security Enthusiast | DSA Learner
+  <p align="center">
+  <i>"Log chale jaate hain, yaadey reh jaati hain."</i>
+</p>
 </p>
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
