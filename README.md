@@ -24,6 +24,7 @@
 <br>
 
 <b>Oracle Agentic AI Certified<br>Foundations Associate</b>
+
 <sub>Issued: July 2026</sub>
 
 </td>
