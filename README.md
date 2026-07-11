@@ -10,35 +10,47 @@
 
 <h2 align="left">🏆 Certifications</h2>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top" style="border:none;">
 
-<img src="assets/oracle-agentic-ai-badge.jpg" width="180"/>
+<img src="assets/oracle-agentic-ai-badge.jpg" width="180" alt="Oracle Agentic AI Certified Foundations Associate"/>
 
-**Oracle Agentic AI Certified Foundations Associate**
+<br><br>
 
-<sub>July 2026</sub>
+<b>Oracle Agentic AI Certified<br>Foundations Associate</b>
+
+<br>
+
+<sub>Oracle University</sub>
+
+<br>
+
+<sub>Issued: July 2026</sub>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top" style="border:none;">
 
-<img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white">
+<img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 
-**Ultimate AWS Certified Cloud Practitioner CLF-C02 2026**
+<br><br>
 
-<sub>July 2026</sub>
+<b>Ultimate AWS Certified Cloud<br>Practitioner CLF-C02 2026</b>
+
+<br>
+
+<sub>Udemy</sub>
+
+<br>
+
+<sub>Completed: July 2026</sub>
 
 </td>
 
 </tr>
 </table>
-<br>
-
-<hr>
-
 <p align="center">
   <a href="https://pritamrangari.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117">
