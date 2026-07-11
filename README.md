@@ -60,14 +60,15 @@
 
 </td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritamrangari27&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
 </tr>
 </table>
 
 <br>
 
 
+<h2 align="center">💻 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pritamrangari?theme=dark&font=Baloo&ext=contest" />
+</p>
 ---
