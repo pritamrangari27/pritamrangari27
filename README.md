@@ -25,7 +25,7 @@
 
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-AWS_Cloud_Practitioner_CLF--C02-A435F0?style=for-the-badge&logo=udemy&logoColor=white">
 
 **Ultimate AWS Certified Cloud Practitioner CLF-C02 2026**
 
